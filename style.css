@@ -6,7 +6,7 @@
 
 .part-1 {
     height: 100vh;
-    background-image: url(source/фон-2.jpg);
+    background-image: url(source/fone-2.jpg);
     background-size: no-repeat;
     background-position: center;
     background-size: cover;
@@ -266,7 +266,7 @@
 
 .part-3 {
     height: 240vh;
-    background-image: url(source/фон-3.jpeg);
+    background-image: url(source/fone-3.jpeg);
     background-size: no-repeat;
     background-position: center;
     background-size: cover;
